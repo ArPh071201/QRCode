@@ -9,7 +9,7 @@ const port = process.env.PORT || 3000;
 // GitHub repository information
 const owner = 'ArPh071201'; // Replace with your GitHub username
 const repo = 'QRCode'; // Replace with your GitHub repository name
-const filePath = 'OperateSync_Brochure (19).pdf'; // Path to the PDF file in the repository
+const filePath = 'OperateSync_Brochure.pdf'; // Path to the PDF file in the repository
 
 // GitHub raw content URL
 const rawUrl = `https://raw.githubusercontent.com/${owner}/${repo}/main/${filePath}`;
